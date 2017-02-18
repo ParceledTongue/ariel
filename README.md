@@ -1,4 +1,4 @@
-Ariel - Powered by Prospero
+Ariel - powered by Prospero
 ===========================
 
 Ariel is a client application for the digital stage manager
@@ -25,7 +25,7 @@ Mockups
 -------
 
 ### Adding a show
-![Basic process for adding a show](mockups/add-show.png =600x)
+![Basic process for adding a show](mockups/add-show.png)
 
 ### Rehearsal view
-![Viewing info about the next rehearsal](mockups/rehearsal-view.png =300x)
+![Viewing info about the next rehearsal](mockups/rehearsal-view.png)
