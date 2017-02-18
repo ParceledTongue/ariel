@@ -24,6 +24,8 @@ Overview + Features
 Mockups
 -------
 
-![Basic process for adding a show](mockups/add-show.png)
+### Adding a show
+![Basic process for adding a show](mockups/add-show.png =600x)
 
-![Viewing info about the next rehearsal](mockups/rehearsal-view.png)
+### Rehearsal view
+![Viewing info about the next rehearsal](mockups/rehearsal-view.png =300x)
